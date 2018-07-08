@@ -25,3 +25,16 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+div {
+    margin: 10px;
+    
+}
+#random {
+    font: 700 1em 'Raleway',
+    sans-serif;
+    border: none;
+    background-color: white;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, .5);
+}
