@@ -1,0 +1,22 @@
+{
+  "name": "background-gradient-generator",
+  "version": "1.0.0",
+  "description": "Generate background gradient code to use on web projects.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjvasiljev/background-gradient-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vjvasiljev/background-gradient-generator/issues"
+  },
+  "homepage": "https://github.com/vjvasiljev/background-gradient-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
